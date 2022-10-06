@@ -15,7 +15,7 @@ Agile mindset, architectural understanding, Cloud friendly. Husband, Dad and cyc
 
 # work experience 👨‍:
 2012 - now <br>
-EDI Manager
+EDI Manager <br>
 2020 - now <br>
 IT Demand Manager -
 <i>SAP S/4 Implementation Workstream Guidance P2P, Logistics&Material, Accounts Payable, Interfaces and other corporate functions</i><br>
