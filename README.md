@@ -37,7 +37,7 @@ Software Developer - <i>Informix 4GL, JAVA, Informix Database, HP-UX, IBM AIX, L
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=softmade-timobruentjen&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=softmade-timobruentjen&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=softmade-timobruentjen&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=softmade-timobruentjen&theme=radical&no-frame=false&no-bg=false&margin-w=4)
