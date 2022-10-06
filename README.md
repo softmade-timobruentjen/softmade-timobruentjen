@@ -5,7 +5,17 @@ Husband, Father, IT-Project Manager
 More than 15 years IT Experience from development to management. <br>
 Agile mindset, architectural understanding, Cloud friendly. Husband, Dad and cycling enthusiast </i>
 
+# involved in 👨‍💼📊📈📁: <br>
+<a href="https://develol.de" >develol.de      WEB and Application-Development</a><br>
+<i>We do. Website, interface, database from ready to custom solutions. We develop digital solutions for all conceivable disciplines.</i>
+<br>
+<br>
+<a href="https://softma.de" >softma.de      EDIFACT/EDL Cloud Services</a>
+<br><i>Since 2012, softma.de has been a reliable partner of the retail industry around EDI. With the EDI service of the softma.de clearing center more than one million data records are exchanged with about 50 suppliers every month. </i>
+
 # work experience 👨‍:
+2012 - now <br>
+EDI Manager
 2020 - now <br>
 IT Demand Manager -
 <i>SAP S/4 Implementation Workstream Guidance P2P, Logistics&Material, Accounts Payable, Interfaces and other corporate functions</i><br>
@@ -18,14 +28,6 @@ Software Egineer - <i>SAP ABAP, SAP HANA, SAP UI5</i>
 <br>
 2000-2014<br>
 Software Developer - <i>Informix 4GL, JAVA, Informix Database, HP-UX, IBM AIX, Linux, Shell</i>
-
-# involved in 👨‍💼📊📈📁: <br>
-<a href="https://develol.de" >develol.de      WEB and Application-Development</a><br>
-<i>We do. Website, interface, database from ready to custom solutions. We develop digital solutions for all conceivable disciplines.</i>
-<br>
-<br>
-<a href="https://softma.de" >softma.de      EDIFACT/EDL Cloud Services</a>
-<br><i>Since 2012, softma.de has been a reliable partner of the retail industry around EDI. With the EDI service of the softma.de clearing center more than one million data records are exchanged with about 50 suppliers every month. </i>
 
 # 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timo-br%C3%BCntjen-2125a6148/)
